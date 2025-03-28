@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8987159-4e8e-41c7-94b0-3d7c7496dd86" name="Changes" comment="Added file">
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +313,7 @@
       <workItem from="1742847173537" duration="2000" />
       <workItem from="1742847181294" duration="139000" />
       <workItem from="1742847397618" duration="3000" />
-      <workItem from="1743181503737" duration="635000" />
+      <workItem from="1743181503737" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="Added file">
       <option name="closed" value="true" />
