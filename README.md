@@ -24,3 +24,8 @@ MORE texts
 
 Tencell
 Im a person
+Okay
+Im spamming
+Im wild
+Im sigma
+I hate woman
