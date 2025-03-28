@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8987159-4e8e-41c7-94b0-3d7c7496dd86" name="Changes" comment="Added file">
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/Python-Training" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/Python-Training" value="feature" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ROMAN16091&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ROMAN16091/PythonProject&quot;,
+    &quot;accountId&quot;: &quot;56137d1e-6002-40a6-80b8-8a1d3a9edabf&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/5822fe09-fff1-48d2-83fa-3d1d096c0067_Домашнє завдання.zip.067/homework_2.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rzr5RKmi8Wtl8X6RVxCzZCLirB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Settings Error&quot;: &quot;Could not save settings&quot;,
+    &quot;Notification.DoNotAsk-Settings Error&quot;: &quot;true&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.book_prc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bool operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bot2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.converter_bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.def_datetime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_3(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_weather_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.point.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_book_of_room.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_game_rooms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_generate_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sets_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings_and_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_list_datetime.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Roman/PycharmProjects/PythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\PycharmProjects\PythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\PycharmProjects\PythonProject" />
+      <recent name="C:\Users\Roman\PycharmProjects\PythonProject\2) Web Apps" />
+      <recent name="C:\Users\Roman\PycharmProjects\PythonProject\1) Basic Python" />
+      <recent name="C:\Users\Roman\PycharmProjects\PythonProject\Тексти та логи" />
+      <recent name="C:\Users\Roman\PycharmProjects\PythonProject\Апі та боти" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8987159-4e8e-41c7-94b0-3d7c7496dd86" name="Changes" comment="" />
+      <created>1737572432190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737572432190</updated>
+      <workItem from="1737572433215" duration="127000" />
+      <workItem from="1737572562159" duration="15000" />
+      <workItem from="1737572653984" duration="44000" />
+      <workItem from="1737572704824" duration="883000" />
+      <workItem from="1737573602468" duration="225000" />
+      <workItem from="1737573836787" duration="126000" />
+      <workItem from="1737573970493" duration="84000" />
+      <workItem from="1737574064649" duration="200000" />
+      <workItem from="1737574274483" duration="84000" />
+      <workItem from="1737574365236" duration="280000" />
+      <workItem from="1737574653284" duration="27000" />
+      <workItem from="1737574687072" duration="50000" />
+      <workItem from="1737655258290" duration="1000" />
+      <workItem from="1737738714275" duration="5835000" />
+      <workItem from="1737749833912" duration="602000" />
+      <workItem from="1737998100391" duration="317000" />
+      <workItem from="1737999023317" duration="2062000" />
+      <workItem from="1738001723663" duration="3428000" />
+      <workItem from="1738170495966" duration="6354000" />
+      <workItem from="1738310673370" duration="229000" />
+      <workItem from="1738313619516" duration="667000" />
+      <workItem from="1738342597621" duration="7735000" />
+      <workItem from="1738567732416" duration="4611000" />
+      <workItem from="1738573319054" duration="2143000" />
+      <workItem from="1738594288408" duration="7808000" />
+      <workItem from="1738672063149" duration="257000" />
+      <workItem from="1738672416463" duration="19000" />
+      <workItem from="1738701989236" duration="356000" />
+      <workItem from="1738742186370" duration="6940000" />
+      <workItem from="1738750519843" duration="334000" />
+      <workItem from="1738751424217" duration="599000" />
+      <workItem from="1738758010518" duration="10000" />
+      <workItem from="1738775033390" duration="6438000" />
+      <workItem from="1738793178409" duration="261000" />
+      <workItem from="1738824087413" duration="50000" />
+      <workItem from="1738913374721" duration="831000" />
+      <workItem from="1738924431655" duration="2000" />
+      <workItem from="1738946442564" duration="7616000" />
+      <workItem from="1739052382693" duration="599000" />
+      <workItem from="1739110682216" duration="3640000" />
+      <workItem from="1739114414296" duration="47000" />
+      <workItem from="1739114480908" duration="7000" />
+      <workItem from="1739114694455" duration="213000" />
+      <workItem from="1739134524227" duration="9000" />
+      <workItem from="1739134868939" duration="1359000" />
+      <workItem from="1739187173803" duration="596000" />
+      <workItem from="1739206879457" duration="6293000" />
+      <workItem from="1739276004766" duration="2000" />
+      <workItem from="1739295127152" duration="154000" />
+      <workItem from="1739346232911" duration="8391000" />
+      <workItem from="1739377208629" duration="11807000" />
+      <workItem from="1739432032510" duration="1643000" />
+      <workItem from="1739473899625" duration="4604000" />
+      <workItem from="1739478894114" duration="6644000" />
+      <workItem from="1739516189483" duration="7658000" />
+      <workItem from="1739525188266" duration="7000" />
+      <workItem from="1739525411007" duration="133000" />
+      <workItem from="1739529838144" duration="98000" />
+      <workItem from="1739541563626" duration="716000" />
+      <workItem from="1739558434396" duration="598000" />
+      <workItem from="1739705582933" duration="427000" />
+      <workItem from="1739709814474" duration="1194000" />
+      <workItem from="1739788994271" duration="599000" />
+      <workItem from="1739811585604" duration="2141000" />
+      <workItem from="1739813867544" duration="5690000" />
+      <workItem from="1739865007369" duration="1298000" />
+      <workItem from="1739974166046" duration="666000" />
+      <workItem from="1739982207673" duration="7697000" />
+      <workItem from="1739990159827" duration="2614000" />
+      <workItem from="1739993073293" duration="280000" />
+      <workItem from="1739993371796" duration="3933000" />
+      <workItem from="1739997555255" duration="441000" />
+      <workItem from="1740070963007" duration="3000" />
+      <workItem from="1740157390256" duration="100000" />
+      <workItem from="1740157570106" duration="7164000" />
+      <workItem from="1740164751217" duration="2793000" />
+      <workItem from="1740248171691" duration="516000" />
+      <workItem from="1740415190003" duration="1128000" />
+      <workItem from="1740416381083" duration="9973000" />
+      <workItem from="1740427921358" duration="1700000" />
+      <workItem from="1740496599555" duration="5163000" />
+      <workItem from="1740506600611" duration="130000" />
+      <workItem from="1740506744059" duration="35000" />
+      <workItem from="1740507418797" duration="3398000" />
+      <workItem from="1740589346006" duration="7548000" />
+      <workItem from="1740599348740" duration="350000" />
+      <workItem from="1740645336360" duration="600000" />
+      <workItem from="1740763518157" duration="2181000" />
+      <workItem from="1740773310609" duration="2530000" />
+      <workItem from="1740775908568" duration="285000" />
+      <workItem from="1740780662428" duration="1668000" />
+      <workItem from="1740782412550" duration="846000" />
+      <workItem from="1740839501440" duration="1879000" />
+      <workItem from="1740912345365" duration="1920000" />
+      <workItem from="1741013991119" duration="2390000" />
+      <workItem from="1741079611980" duration="4591000" />
+      <workItem from="1741093005128" duration="1493000" />
+      <workItem from="1741095099233" duration="638000" />
+      <workItem from="1741096250476" duration="87000" />
+      <workItem from="1741096345327" duration="34000" />
+      <workItem from="1741096496687" duration="1611000" />
+      <workItem from="1741101497776" duration="709000" />
+      <workItem from="1741102993888" duration="39000" />
+      <workItem from="1741103039454" duration="148000" />
+      <workItem from="1741103199469" duration="21000" />
+      <workItem from="1741103822257" duration="356000" />
+      <workItem from="1741104832262" duration="7356000" />
+      <workItem from="1741177629263" duration="2000" />
+      <workItem from="1741181975060" duration="5032000" />
+      <workItem from="1741197373863" duration="2000" />
+      <workItem from="1741203606601" duration="8414000" />
+      <workItem from="1741246767584" duration="4882000" />
+      <workItem from="1741255758300" duration="12727000" />
+      <workItem from="1741271157745" duration="790000" />
+      <workItem from="1741787251227" duration="1177000" />
+      <workItem from="1741791206330" duration="217000" />
+      <workItem from="1742496146176" duration="1000" />
+      <workItem from="1742563056600" duration="928000" />
+      <workItem from="1742835517737" duration="1230000" />
+      <workItem from="1742837089390" duration="134000" />
+      <workItem from="1742837258107" duration="8091000" />
+      <workItem from="1742845734750" duration="498000" />
+      <workItem from="1742846242856" duration="14000" />
+      <workItem from="1742846271930" duration="10000" />
+      <workItem from="1742846288317" duration="6000" />
+      <workItem from="1742846305044" duration="8000" />
+      <workItem from="1742846320767" duration="36000" />
+      <workItem from="1742846471664" duration="28000" />
+      <workItem from="1742846619981" duration="102000" />
+      <workItem from="1742846791545" duration="2000" />
+      <workItem from="1742846813654" duration="131000" />
+      <workItem from="1742847126455" duration="33000" />
+      <workItem from="1742847173537" duration="2000" />
+      <workItem from="1742847181294" duration="139000" />
+      <workItem from="1742847397618" duration="3000" />
+      <workItem from="1743181503737" duration="635000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added file">
+      <option name="closed" value="true" />
+      <created>1743181704879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743181704879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oop.py" />
+    <MESSAGE value="Added file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added file" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$sets_file.coverage" NAME="sets_file Coverage Results" MODIFIED="1742563366851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$practice_generate_password.coverage" NAME="practice_generate_password Coverage Results" MODIFIED="1739384279662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$lists.coverage" NAME="lists Coverage Results" MODIFIED="1739982802704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$homework_1.coverage" NAME="homework_1 Coverage Results" MODIFIED="1738605570912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$conditions.coverage" NAME="conditions Coverage Results" MODIFIED="1738350174722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$book_prc.coverage" NAME="book_prc Coverage Results" MODIFIED="1741079613817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$practice.coverage" NAME="practice Coverage Results" MODIFIED="1738608629205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1738778960609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$homework_5.coverage" NAME="homework_5 Coverage Results" MODIFIED="1740914252161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$practice_book_of_room.coverage" NAME="practice_book_of_room Coverage Results" MODIFIED="1739382200557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$api.coverage" NAME="api Coverage Results" MODIFIED="1740165697064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$bool_operations.coverage" NAME="bool operations Coverage Results" MODIFIED="1738176969358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$homework_3.coverage" NAME="homework_3 Coverage Results" MODIFIED="1739525439531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$converter_bot.coverage" NAME="converter_bot Coverage Results" MODIFIED="1741271873225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$strings_and_types.coverage" NAME="strings_and_types Coverage Results" MODIFIED="1738176195365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$bot2.coverage" NAME="bot2 Coverage Results" MODIFIED="1741184533507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$def_datetime.coverage" NAME="def_datetime Coverage Results" MODIFIED="1739982444696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$practice_game_rooms.coverage" NAME="practice_game_rooms Coverage Results" MODIFIED="1739387983900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$tuple_dict.coverage" NAME="tuple_dict Coverage Results" MODIFIED="1739207567730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$open_weather_map.coverage" NAME="open_weather_map Coverage Results" MODIFIED="1740596857497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$homework_3_1_.coverage" NAME="homework_3(1) Coverage Results" MODIFIED="1739524603859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1737745659450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$point.coverage" NAME="point Coverage Results" MODIFIED="1739818436717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$homework_2.coverage" NAME="homework_2 Coverage Results" MODIFIED="1739135597028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$testing.coverage" NAME="testing Coverage Results" MODIFIED="1741269105404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$oop.coverage" NAME="oop Coverage Results" MODIFIED="1739818441718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$tuple_list_datetime.coverage" NAME="tuple_list_datetime Coverage Results" MODIFIED="1738781554857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$python_bot.coverage" NAME="python_bot Coverage Results" MODIFIED="1740424438402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1739993338853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$car.coverage" NAME="car Coverage Results" MODIFIED="1739815281099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
