@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8987159-4e8e-41c7-94b0-3d7c7496dd86" name="Changes" comment="Added file">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_03_2025_19_50_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_03_2025_19_50__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_03_2025_19_51_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_03_2025_19_51__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,59 +80,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Settings Error&quot;: &quot;Could not save settings&quot;,
-    &quot;Notification.DoNotAsk-Settings Error&quot;: &quot;true&quot;,
-    &quot;Python.api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.book_prc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bool operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bot2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.converter_bot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.def_datetime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_3(1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.open_weather_map.executor&quot;: &quot;Run&quot;,
-    &quot;Python.point.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_book_of_room.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_game_rooms.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_generate_password.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_bot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sets_file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings_and_types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple_dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple_list_datetime.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Roman/PycharmProjects/PythonProject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Settings Error": "Could not save settings",
+    "Notification.DoNotAsk-Settings Error": "true",
+    "Python.api.executor": "Run",
+    "Python.book_prc.executor": "Run",
+    "Python.bool operations.executor": "Run",
+    "Python.bot2.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.conditions.executor": "Run",
+    "Python.converter_bot.executor": "Run",
+    "Python.def_datetime.executor": "Run",
+    "Python.homework_1.executor": "Run",
+    "Python.homework_2.executor": "Run",
+    "Python.homework_3(1).executor": "Run",
+    "Python.homework_3.executor": "Run",
+    "Python.homework_5.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.oop.executor": "Run",
+    "Python.open_weather_map.executor": "Run",
+    "Python.point.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.practice1.executor": "Run",
+    "Python.practice2.executor": "Run",
+    "Python.practice_book_of_room.executor": "Run",
+    "Python.practice_game_rooms.executor": "Run",
+    "Python.practice_generate_password.executor": "Run",
+    "Python.python_bot.executor": "Run",
+    "Python.sets_file.executor": "Run",
+    "Python.strings_and_types.executor": "Run",
+    "Python.testing.executor": "Run",
+    "Python.tuple_dict.executor": "Run",
+    "Python.tuple_list_datetime.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature",
+    "last_opened_file_path": "C:/Users/Roman/PycharmProjects/PythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Roman\PycharmProjects\PythonProject" />
